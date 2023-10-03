@@ -1,0 +1,25 @@
+.create
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height:90vh !important;
+    background-color: antiquewhite;
+    background-image: url('./images/4.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.form
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(241, 159, 35, 0.815);
+    min-width: 400px;
+}
+.field
+{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}

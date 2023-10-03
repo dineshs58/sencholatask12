@@ -1,0 +1,41 @@
+.readdiv {
+    overflow: auto !important;
+    margin-top: 30px ;
+     /* background: rgba(207, 190, 190, 0.363) !important; */
+}
+/* .table
+{
+    
+    /* overflow-x: scroll; */
+    /* border: 1px solid red !important; 
+   
+} */
+.tabelcol
+{
+    background-color: rgba(107, 109, 109, 0.575) !important;
+   border: 1px solid rgb(248, 247, 247) !important;
+}
+.tabelcol1
+{
+     color:rgb(235, 233, 233) !important;
+     font-size: 2.3vw;
+     font-weight: 200;
+}
+.tabelcol2{
+    font-size:2.5vw;
+    font-weight: 500;
+    color:red !important;
+} 
+@media only screen and  (max-width:600px){
+    .tabelcol1
+{
+     color:rgb(235, 233, 233) !important;
+     font-size: 4vw;
+     font-weight: 400;
+}
+.tabelcol2{
+    font-size:5vw;
+    font-weight: 500;
+    color:red !important;
+} 
+}
